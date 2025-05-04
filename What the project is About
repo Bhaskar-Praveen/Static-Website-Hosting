@@ -16,5 +16,9 @@ This project demonstrates how to host a static website on AWS with a custom doma
 - **AWS ACM** (SSL Certificates)  
 - **AWS CloudFront** (CDN & HTTPS Enforcement)  
 
+Take a closer look at the infrastructure deployed with this project :
+
+
+
 ---
  
