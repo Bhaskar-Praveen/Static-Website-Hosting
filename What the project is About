@@ -1,1 +1,20 @@
+# Hosting a Static Website on AWS  
 
+This project demonstrates how to host a static website on AWS with a custom domain, HTTPS security, and CDN acceleration.  
+
+## What You'll Learn  
+- ✅ Importing a domain name using AWS Route 53  
+- ✅ Creating and managing DNS records in a hosted zone  
+- ✅ Setting up S3 buckets for static website hosting  
+- ✅ Linking a domain to the website using Route 53  
+- ✅ Securing the site with HTTPS via AWS Certificate Manager (ACM)  
+- ✅ Accelerating content delivery with CloudFront  
+
+## Technologies Used  
+- **AWS S3** (Static Hosting)  
+- **AWS Route 53** (DNS & Domain Management)  
+- **AWS ACM** (SSL Certificates)  
+- **AWS CloudFront** (CDN & HTTPS Enforcement)  
+
+---
+ 
